@@ -1,0 +1,26 @@
+<annotation>
+	<folder>batch4</folder>
+	<filename>162.jpg</filename>
+	<path>C:\Users\achey\Downloads\batch4-20210611T030350Z-001\batch4\162.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>armor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>434</xmin>
+			<ymin>199</ymin>
+			<xmax>505</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

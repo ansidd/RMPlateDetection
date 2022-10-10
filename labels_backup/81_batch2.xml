@@ -1,0 +1,26 @@
+<annotation>
+	<folder>batch2</folder>
+	<filename>81.jpg</filename>
+	<path>C:\Users\badas\Downloads\batch2-20210611T015326Z-001\batch2\81.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>armor</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>324</xmin>
+			<ymin>268</ymin>
+			<xmax>453</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

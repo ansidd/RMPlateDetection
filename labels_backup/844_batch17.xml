@@ -1,0 +1,38 @@
+<annotation>
+	<folder>batch17</folder>
+	<filename>844.jpg</filename>
+	<path>C:\Users\phoen\Downloads\cu robotics data\batch17-20210613T023719Z-001\batch17\844.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>armor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>308</xmin>
+			<ymin>131</ymin>
+			<xmax>335</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>armor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>402</xmin>
+			<ymin>133</ymin>
+			<xmax>442</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>

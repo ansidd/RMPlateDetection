@@ -1,0 +1,26 @@
+<annotation>
+	<folder>batch3</folder>
+	<filename>107.jpg</filename>
+	<path>C:\Users\achey\Downloads\batch3-20210611T021259Z-001\batch3\107.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>armor</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>317</xmin>
+			<ymin>282</ymin>
+			<xmax>460</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

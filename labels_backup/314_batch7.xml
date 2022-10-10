@@ -1,0 +1,26 @@
+<annotation>
+	<folder>batch7</folder>
+	<filename>314.jpg</filename>
+	<path>C:\Users\Mika\Downloads\batch7\314.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>w</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>220</ymin>
+			<xmax>209</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>
