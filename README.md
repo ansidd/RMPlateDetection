@@ -13,5 +13,5 @@ The following important exercises were performed :
 3. Inference on video: After training the model for a certain number of epochs, the model with the best weights is stores as "best.pt". These weights are loaded and are used to perform detection. The detection code is in "main.py". Here a video "vid.mp4" which is a video of the match between NYU and CU Boulder is read and the prediction is done on each frame of the video and displayed simultaneously.
 
 Some stills from the detection:
-![image]{width: 100px;}(https://github.com/ansidd/RMPlateDetection/raw/main/Screen%20Shot%202022-10-10%20at%204.11.42%20PM.png)
+![image] {width: 100px;} (https://github.com/ansidd/RMPlateDetection/raw/main/Screen%20Shot%202022-10-10%20at%204.11.42%20PM.png)
 
