@@ -16,3 +16,5 @@ Some stills from the detection:
 <br>
 <img src="https://github.com/ansidd/RMPlateDetection/raw/main/Screen%20Shot%202022-10-10%20at%204.11.42%20PM.png" width="300"/>
 <img src="https://github.com/ansidd/RMPlateDetection/raw/main/Screen%20Shot%202022-10-10%20at%204.12.53%20PM.png" width="300"/>
+<img src="https://github.com/ansidd/RMPlateDetection/raw/main/Screen%20Shot%202022-10-17%20at%206.51.58%20PM.png" width="300"/>
+<img src="https://github.com/ansidd/RMPlateDetection/raw/main/Screen%20Shot%202022-10-17%20at%206.52.03%20PM.png" width="300"/>
